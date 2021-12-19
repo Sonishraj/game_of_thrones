@@ -8,6 +8,10 @@ In this code, Logistic and Decision Tree classification models are used to predi
 
 For me Logistic was the best model with the test score of 78.97% and AUC is 59%.
 
+<b> Programming Language Used</b> <br>
+  
+  1. Python <br>
+
 <b> Run the Script</b> <br>
 
 Clone the repository
